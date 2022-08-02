@@ -1,0 +1,25 @@
+{
+  "name": "momentjstest",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "moment Js test code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boy22200011/momentJsTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boy22200011/momentJsTest/issues"
+  },
+  "homepage": "https://github.com/boy22200011/momentJsTest#readme",
+  "dependencies": {
+    "@types/node": "^18.6.3",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.2.10"
+  }
+}
